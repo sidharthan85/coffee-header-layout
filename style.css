@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    background-color:rgb(0, 255, 242);
+    height: 15vh;
+}
+nav{
+    display: flex;
+    background-color: rgb(2, 2, 46);
+    height: 10vh;
+    width: 40%;
+    margin-top: 15px;
+    margin-left: 50%;
+}
+.logo{
+    display: flex;
+    height: 10vh;
+    width: 80px;
+    margin-left: 30px;
+    margin-top: 15px;
+    background-color: rgb(1, 1, 41);
+}
